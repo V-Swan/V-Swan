@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Swan
 
-<!--
-**V-Swan/V-Swan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Développeur web en formation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projets
+- Portfolio HTML/CSS
+- Recette cookies (Git + GitHub)
+
+---
+
+## 📫 Contact
+- Email : tonemail@example.com
+- GitHub : https://github.com/V-Swan
+
+---
+
+## 💡 À propos
+J’aime apprendre le développement web et créer des interfaces modernes.
